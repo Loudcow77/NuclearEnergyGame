@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7109956976385cf498e5222c6a70a6dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - snow: {fileID: 3344318079811695123, guid: 08bbc246f16536f47a92a1098df3f04d, type: 3}
+  - leaves: {fileID: 6530947865739356525, guid: 230a984d9dc384f46968f6c5a009369a,
+      type: 3}
+  - weatherLight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
